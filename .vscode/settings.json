@@ -1,0 +1,9 @@
+{
+  "python.analysis.extraPaths": [
+    "./server/Repositories/SmaregiRepositories",
+    "./server/ApplicationService",
+    "./server/ApplicationService/ApplicationService",
+    "./server/ApplicationService/SmaregiService",
+    "./server/Repositories/ApplicationRepositories",
+    "./server/Repositories/SmaregiRepositories"]
+}
